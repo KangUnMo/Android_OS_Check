@@ -23,4 +23,8 @@ Android OS 업데이트 내역 및 체크사항
       </queries>
    </manifest>
    ```
-3. 
+3. 1회성 권한 적용 (앱을 실행하는동안 허용)
+4. 백그라운드 위치 액세스
+5. 앱 게시 유형 변경
+   ![image](https://user-images.githubusercontent.com/63289651/137827051-55fc52df-e076-4d3e-b007-3f15900da59a.png)
+
